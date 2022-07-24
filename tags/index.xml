@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Timgad.tech</title>
-    <link>https://www.timgad.tech/tags/</link>
-    <description>Recent content in Tags on Timgad.tech</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://www.timgad.tech/tags/index.xml" rel="self" type="application/rss+xml" />
+    <title>Tags on Timegad Team</title>
+    <link>http://127.0.0.1:8080/tags/</link>
+    <description>Recent content in Tags on Timegad Team</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://127.0.0.1:8080/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
