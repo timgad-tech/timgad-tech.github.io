@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Timegad Team</title>
+    <title>Blog on Timgad Team</title>
     <link>https://timgad-tech.github.io/blog/</link>
-    <description>Recent content in Blog on Timegad Team</description>
+    <description>Recent content in Blog on Timgad Team</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 14 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://timgad-tech.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
