@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Timgad Team</title>
+    <link>https://timgad-tech.github.io/fr/author/</link>
+    <description>Recent content in Authors on Timgad Team</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>Conçu Par [Themefisher](https://themefisher.com/) &amp; Développé Par [Gethugothemes](https://gethugothemes.com/)</copyright><atom:link href="https://timgad-tech.github.io/fr/author/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Abdullah Al Shifat</title>
+      <link>https://timgad-tech.github.io/fr/author/abdullah-al-shifat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://timgad-tech.github.io/fr/author/abdullah-al-shifat/</guid>
+      <description>Hic dolor cumque quod quas pariatur modi rerum qui consequatur, iusto inventore necessitatibus.</description>
+    </item>
+    
+    <item>
+      <title>Derick Barker</title>
+      <link>https://timgad-tech.github.io/fr/author/derick-barker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://timgad-tech.github.io/fr/author/derick-barker/</guid>
+      <description>Facilis architecto quis maxime nam at, optio harum a velit nulla repellat ad culpa dolorem ab ducimus, porro enim fugit incidunt expedita.</description>
+    </item>
+    
+  </channel>
+</rss>
